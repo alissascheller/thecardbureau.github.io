@@ -1,0 +1,32 @@
+#main-col {
+width: 60%;
+margin:auto;
+}
+
+@media (max-width: 500px) {
+	#main-col {
+		width: 90%;
+	}
+}
+
+h1 {
+	font-family: 'Quicksand', sans-serif;
+	font-size: 3em;
+}
+
+img {
+	display: block;
+	width: 150px;
+	height: 150px;
+	margin: 20px auto 10px auto;
+}
+
+p {
+	font-family: 'Quicksand', sans-serif;
+	font-size: 1em;
+}
+
+a {
+	text-decoration: none;
+	color: #88D7D0;
+}
