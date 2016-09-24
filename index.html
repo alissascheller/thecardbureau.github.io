@@ -1,16 +1,33 @@
 <html>
 <head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link href="https://fonts.googleapis.com/css?family=Quicksand" rel="stylesheet"> 
+<meta name="viewport" id="jb-viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1, maximum-scale=1, user-scalable=0" />
+<link href="https://fonts.googleapis.com/css?family=Quicksand:400,700" rel="stylesheet"> 
 <link href='main.css' rel='stylesheet' type='text/css'>
 <title>The Card Bureau</title>
 </head>
 
 <body>
-<div id="main-col">
-<img src="img/cardbureaulogo.svg">
+<div class="main-col">
+<img class="logo" src="img/cardbureaulogo.svg">
 <h1>Welcome!</h1>
-<p>We're making unique greeting cards in Washington, D.C. Check back here in a bit for a list of places to find us around town. In the meantime, <a href="mailto:thecardbureau@gmail.com">get in touch</a>!</p>
+<p>We're making unique greeting cards in Washington, D.C. You can find our cards at <span>Riverby Books</span> at 417 E Capitol St SE. More locations coming soon. In the meantime, <a href="mailto:thecardbureau@gmail.com">get in touch</a>!</p>
+<p>Check out some of our cards in the gallery below!</p>
 </div>
+
+	<script src="jbcore/juicebox.js"></script>
+	<script>
+	new juicebox({
+		containerId: 'juicebox-container'
+	});
+	</script>
+	<div id="juicebox-container"></div>
+
+<div class="footer">
+<a href="facebook.com/thecardbureau" target="_blank"><img class="product" src="img/FB-f-Logo__blue_50.png"></a>
+<a href="twitter.com/thecardbureau" target="_blank"><img class="product" src="img/Twitter_Logo_Blue.png"></a>
+<a href="instagram.com/thecardbureau" target="_blank"><img class="product" src="img/glyph-logo_May2016.png"></a>
+</div>
+
 </body>
+</html>
 

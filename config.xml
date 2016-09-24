@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery>
+  <image imageURL="img/english-basement.jpg"
+	thumbURL="img/english-basement.jpg"
+	linkURL="img/english-basement.jpg"
+	linkTarget="_blank">
+  </image>
+
+<image imageURL="img/republican.jpg"
+	thumbURL="img/republican.jpg"
+	linkURL="img/republican.jpg"
+	linkTarget="_blank">
+	<caption>Democrat card coming soon!</caption>
+  </image>
+
+  <image imageURL="img/safetrack.jpg"
+	thumbURL="img/safetrack.jpg"
+	linkURL="img/safetrack.jpg"
+	linkTarget="_blank">
+  </image>
+
+  <image imageURL="img/student-loans.jpg"
+	thumbURL="img/student-loans.jpg"
+	linkURL="img/student-loans.jpg"
+	linkTarget="_blank">
+  </image>
+
+  <image imageURL="img/washington-machine.jpg"
+	thumbURL="img/washington-machine.jpg"
+	linkURL="img/washington-machine.jpg"
+	linkTarget="_blank">
+  </image>
+
+</juiceboxgallery>
