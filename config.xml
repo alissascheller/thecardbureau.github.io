@@ -1,17 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <juiceboxgallery>
+  <image imageURL="img/RBGRBGRBG-2.jpg"
+	thumbURL="img/RBGRBGRBG-2.jpg"
+	linkURL="img/RBGRBGRBG-2.jpg"
+	linkTarget="_blank">
+  </image>
+
   <image imageURL="img/english-basement.jpg"
 	thumbURL="img/english-basement.jpg"
 	linkURL="img/english-basement.jpg"
 	linkTarget="_blank">
   </image>
 
-<image imageURL="img/republican.jpg"
-	thumbURL="img/republican.jpg"
-	linkURL="img/republican.jpg"
+<image imageURL="img/dem-rep.jpg"
+	thumbURL="img/dem-rep.jpg"
+	linkURL="img/dem-rep.jpg"
 	linkTarget="_blank">
-	<caption>Democrat card coming soon!</caption>
   </image>
 
   <image imageURL="img/safetrack.jpg"
