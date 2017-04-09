@@ -52,6 +52,12 @@ p {
 	line-height: 1.2em;
 }
 
+ul, li {
+	font-family: 'Quicksand', sans-serif;
+	font-size: 1em;
+	line-height: 1.2em;
+}
+
 a {
 	text-decoration: none;
 	color: #88D7D0;
